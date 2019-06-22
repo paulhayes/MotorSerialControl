@@ -1,0 +1,1 @@
+void setSpeed(void *data);
